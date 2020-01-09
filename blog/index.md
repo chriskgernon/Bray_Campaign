@@ -16,9 +16,14 @@ Diana speaking at her event
 ![will](UNADJUSTEDNONRAW_thumb_221e.jpg)
 Even the pizza pie master has to clean up around here
 
+## January 6, 2020
+
+We found out our goal is to get Diana on the ballot for the Democratic Senate Primary for Colorado. This entails collecting 1,500 signitures from each of Colorado's 7 districts. However, in order for a signiture to count, it must be from somone who has been a registered Democrat for at least 30 days, and they cannot have signed another candidates petition who has already turned in their signatures. 
+
+
 ## January 7, 2020
 
-Will and I started work at 10
+Will and I started work at 10. 
 
 Around 5
 
@@ -34,6 +39,10 @@ Diana with anti-vaxers
 Supa hot :fire: 
 
 ![pic](UNADJUSTEDNONRAW_thumb_2273.jpg)
+
+
+Then, I mapped where all of the registered democrats were clustered by precinct in congressional districts 2, 3, 4, and 5.
+Visit [Diana's volunteer website](https://dianaforcolorado.github.io/volunteer.github.io/) to see my final products. Our plan is to use those maps to target the areas where high density democrats are registered.
 
 
 
