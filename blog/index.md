@@ -24,10 +24,11 @@ Will and I started work at 10
 
 We began the day by going to what we thought was a climate march at the capital building at 10 am. Unfortunately, we got the date wrong and the climate march was the following day. Instead, we showed up to the freedom vs. force rally. The groups in attendence were: pro-choice, anti-vaxers, and second amendment right protectors. However, this mistake didn't stop us from seizing the day. We used this opportunity to get to know some anti-vaxers and to gather some advertising material.
 
-![pic](20200108_102705.jpg)
 Diana with anti-vaxers
+![pic](20200108_102705.jpg)
 
-Advertising material
+
+Supa hot :fire: 
 ![pic](UNADJUSTEDNONRAW_thumb_2273.jpg)
 
 
