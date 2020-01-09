@@ -27,6 +27,9 @@ We began the day by going to what we thought was a climate march at the capital 
 ![pic](20200108_102705.jpg)
 Diana with anti-vaxers
 
+Advertising material
+![pic](UNADJUSTEDNONRAW_thumb_2273.jpg)
+
 
 
 
