@@ -44,7 +44,16 @@ Supa hot :fire:
 Then, I mapped where all of the registered democrats were clustered by precinct in congressional districts 2, 3, 4, and 5.
 Visit [Diana's volunteer website](https://dianaforcolorado.github.io/volunteer.github.io/) to see my final products. Our plan is to use those maps to target the areas where high density democrats are registered.
 
+## January 9, 2020
 
+We began our day by going to a climate march. At the march, people spoke about resisting oil companies and fracking. Speakers called on the Colorado legislature and governor to pass legislation regulating fracking and oil drilling.  30 people got arrested at the rally.
+
+Here is a picture of Will and our fellow intern Maxine at the march!
+![pic](extinction.jpg)
+
+After the march, we took Diana's petition ballots to the Secretary of State's office to ensure we had the proper format for the petition ballots we will use to collect the 1,500 signatures from each Congressional District Diana needs to get on the ballot.
+
+Next, we organized the campaign's google drive and created a system that all volunteer and event outreach will use to bookkeep what events they've found where Diana could petition and what groups can the team contact to ask for volunteers.
 
 
 
