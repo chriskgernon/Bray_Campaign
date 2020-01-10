@@ -23,9 +23,13 @@ We found out our goal is to get Diana on the ballot for the Democratic Senate Pr
 
 ## January 7, 2020
 
-Will and I started work at 10. 
+Will and I started work at 10.
 
-Around 5
+Here is campaign head quarters!
+![pic]()
+
+Around 5, we drove to staff Diana at a Democratic weekly meeting in the city of Aurora. There, Diana was one of two Senate candidates who spoke. 
+
 
 ## January 8, 2020
 
@@ -46,10 +50,15 @@ Visit [Diana's volunteer website](https://dianaforcolorado.github.io/volunteer.g
 
 ## January 9, 2020
 
-We began our day by going to a climate march. At the march, people spoke about resisting oil companies and fracking. Speakers called on the Colorado legislature and governor to pass legislation regulating fracking and oil drilling.  30 people got arrested at the rally.
+We began our day by removing the bed that was in campaign HQ in order to create more spaces to work. 
+
+Here is the new and improved campaign HQ!
+![pic]()
+
+Next, we drove with Diana to a climate march. At the march, people spoke about resisting oil companies and fracking. Speakers called on the Colorado legislature and governor to pass legislation regulating fracking and oil drilling.  30 people got arrested at the rally.
 
 Here is a picture of Will and our fellow intern Maxine at the march!
-![pic](extinction.jpg)
+![pic](UNADJUSTEDNONRAW_thumb_2284.jpg)
 
 After the march, we took Diana's petition ballots to the Secretary of State's office to ensure we had the proper format for the petition ballots we will use to collect the 1,500 signatures from each Congressional District Diana needs to get on the ballot.
 
