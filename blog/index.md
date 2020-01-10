@@ -26,7 +26,9 @@ We found out our goal is to get Diana on the ballot for the Democratic Senate Pr
 Will and I started work at 10.
 
 Here is campaign head quarters!
-![pic]()
+![pic](UNADJUSTEDNONRAW_thumb_227f.jpg)
+![pic](UNADJUSTEDNONRAW_thumb_2280.jpg)
+![pic](UNADJUSTEDNONRAW_thumb_2281.jpg)
 
 Around 5, we drove to staff Diana at a Democratic weekly meeting in the city of Aurora. There, Diana was one of two Senate candidates who spoke. 
 
@@ -53,7 +55,7 @@ Visit [Diana's volunteer website](https://dianaforcolorado.github.io/volunteer.g
 We began our day by removing the bed that was in campaign HQ in order to create more spaces to work. 
 
 Here is the new and improved campaign HQ!
-![pic]()
+![pic](UNADJUSTEDNONRAW_mini_22b5.jpg)
 
 Next, we drove with Diana to a climate march. At the march, people spoke about resisting oil companies and fracking. Speakers called on the Colorado legislature and governor to pass legislation regulating fracking and oil drilling.  30 people got arrested at the rally.
 
