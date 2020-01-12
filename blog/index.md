@@ -1,3 +1,15 @@
+## January 10, 2020
+
+The google drive and the organization of the google drive is crucial to the campaign's success. It stores all the information for contact leads, endorsement, social media information, etc. 
+
+Unfortunatley, our campaign is the least well funded in the race. As a result, we do not have the money to spend on organizational tools or strategy tools. Intead, we have to use open source softwares and things like google drive to organize all of our information. It is integral that everybody is on the same page about the organization of the google drive and how it functions. If this is not the case, it is really easy to clutter the google drive and drastically decrease the campaign's efficiency. 
+
+Diana has more and more interns joining the campaign, and Will and I are going to leave January 31st. This means we have to leave the campaign set up for success. We must set up a system that functions because the system is well set-up, not because Will and I are here to facilitate it. 
+
+Before Will and I came to work for her, Diana had several different groups work for her. Additionally, her campaign manager is someone who does not have a lot of experience with computers or google drive. Thus, the google drive was disorganized and not very functionable.
+| Google Drive Changes |
+| Before |  After      |
+
 ## January 9, 2020
 
 We began our day by removing the bed that was in campaign HQ in order to create more spaces to work. 
@@ -13,6 +25,8 @@ Here is a picture of Will and our fellow intern Maxine at the march!
 After the march, we took Diana's petition ballots to the Secretary of State's office to ensure we had the proper format for the petition ballots we will use to collect the 1,500 signatures from each Congressional District Diana needs to get on the ballot.
 
 Next, we organized the campaign's google drive and created a system that all volunteer and event outreach will use to bookkeep what events they've found where Diana could petition and what groups can the team contact to ask for volunteers.
+
+
 
 ## January 8, 2020
 
