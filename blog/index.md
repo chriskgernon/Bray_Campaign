@@ -15,6 +15,8 @@ Pictures are important for social media and advertising. They're more effective 
 | **Contacting people and organizations**
 | Contacting people and organizations is integral to a successful campaign– especially when there is low name recognition throughout the state. That places all of the burden on the campaign to reach out to groups and people to ask for support. Additionally, it is important to capitalize on the people that are willing to help with the campaign. **why it was bad*** The google drive had so many different google sheets with varying types of contact information. Because there were so many different files for people that were willing to volunteer vs. people who were willing to support vs. people who had said they would volunteer but were never contacted again, it was easy for so many people to slip through the cracks.    | **Change** I merged all the lists so there were no redundancies, and it was clear who had been contacted, who needs to be followed up, and who is not likely to support. Additionally, it standardized the information needed for each contact.        |
 
+In addition to organizing the drive, Diana, Will, and I met with Arend Richard, a social media influencer, founder of [The Weed Tube](https://www.theweedtube.com/), and endorser of Diana. He was willing to host an event and create a video all in support of Diana. This was a huge meeting for the campaign because it could lead to a lot of visibility for Diana, something that's crucial to get the 1,500 valid signatures we need to get her on the ballet. 
+
 ## January 9, 2020
 
 We began our day by removing the bed that was in campaign HQ in order to create more spaces to work. 
