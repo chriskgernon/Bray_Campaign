@@ -7,12 +7,11 @@ Unfortunatley, our campaign is the least well funded in the race. As a result, w
 Diana has more and more interns joining the campaign, and Will and I are going to leave January 31st. This means we have to leave the campaign set up for success. We must set up a system that functions because the system is well set-up, not because Will and I are here to facilitate it. 
 
 Before Will and I came to work for her, Diana had several different groups work for her. Additionally, her campaign manager is someone who does not have a lot of experience with computers or google drive. Thus, the google drive was disorganized and not very functionable.
-| Google Drive Changes |
-| ---------------------- |
+
+| Syntax      | Description |
+| ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
-| Google Drive Changes |
-| Before |  After      |
 
 ## January 9, 2020
 
