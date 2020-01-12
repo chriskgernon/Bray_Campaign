@@ -10,9 +10,10 @@ Before Will and I came to work for her, Diana had several different groups work 
 
 | Before      | After |
 | ----------- | ----------- |
-| ***Photos*** 
+| **Photos** 
 Pictures are important for social media and advertising. They're more effective at engaging potential voters than words.  Pictures were divided into events. There was a folder for each event at which a picture was taken. **Why it was bad** When posting on social media, you need a specific photo of Diana either by herself or giving a speech or posing with a group of people. It took a really long time to find each one.     | **Change**  The folders are now organized into "Diana alone", "Diana speaking", etc. Now, it is way easier to find a photo when trying to make a post or advertisement product.      |
-| Paragraph   | Text        |
+| **Contacting people and organizations**
+| Contacting people and organizations is integral to a successful campaign– especially when there is low name recognition throughout the state. That places all of the burden on the campaign to reach out to groups and people to ask for support. Additionally, it is important to capitalize on the people that are willing to help with the campaign. **why it was bad*** The google drive had so many different google sheets with varying types of contact information. Because there were so many different files for people that were willing to volunteer vs. people who were willing to support vs. people who had said they would volunteer but were never contacted again, it was easy for so many people to slip through the cracks.    | **Change** I merged all the lists so there were no redundancies, and it was clear who had been contacted, who needs to be followed up, and who is not likely to support. Additionally, it standardized the information needed for each contact.        |
 
 ## January 9, 2020
 
