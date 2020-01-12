@@ -10,7 +10,7 @@ Before Will and I came to work for her, Diana had several different groups work 
 
 | Before      | After |
 | ----------- | ----------- |
-| ### Photos 
+| ***Photos*** 
 Pictures are important for social media and advertising. They're more effective at engaging potential voters than words.  Pictures were divided into events. There was a folder for each event at which a picture was taken. **Why it was bad** When posting on social media, you need a specific photo of Diana either by herself or giving a speech or posing with a group of people. It took a really long time to find each one.     | **Change**  The folders are now organized into "Diana alone", "Diana speaking", etc. Now, it is way easier to find a photo when trying to make a post or advertisement product.      |
 | Paragraph   | Text        |
 
