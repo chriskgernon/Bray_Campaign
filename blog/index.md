@@ -4,13 +4,13 @@ The google drive and the organization of the google drive is crucial to the camp
 
 Unfortunatley, our campaign is the least well funded in the race. As a result, we do not have the money to spend on organizational tools or strategy tools. Intead, we have to use open source softwares and things like google drive to organize all of our information. It is integral that everybody is on the same page about the organization of the google drive and how it functions. If this is not the case, it is really easy to clutter the google drive and drastically decrease the campaign's efficiency. 
 
-Diana has more and more interns joining the campaign, and Will and I are going to leave January 31st. This means we have to leave the campaign set up for success. We must set up a system that functions because the system is well set-up, not because Will and I are here to facilitate it. 
+Diana has more and more interns joining the campaign, and Will and I are going to leave January 31st. This means we have to leave the campaign set up for success. We must set up a system that functions because the system is well set-up, not because Will and I are here to facilitate it. The drive needs to be set-up so that anyone new who joins the campaign does not need to first learn how it works in order for it to be effective. It needs to be inuitive.
 
 Before Will and I came to work for her, Diana had several different groups work for her. Additionally, her campaign manager is someone who does not have a lot of experience with computers or google drive. Thus, the google drive was disorganized and not very functionable.
 
-| Syntax      | Description |
+| Before      | After |
 | ----------- | ----------- |
-| Header      | Title       |
+| Pictures are important for social media and advertising. They're more effective at engaging potential voters than words.  Pictures were divided into events. There was a folder for each event at which a picture was taken. **Why it was bad** When posting on social media, you need a specific photo of Diana either by herself or giving a speech or posing with a group of people. It took a really long time to find each one.     | **Change**  The folders are now organized into "Diana alone", "Diana speaking", etc. Now, it is way easier to find a photo when trying to make a post or advertisement product.      |
 | Paragraph   | Text        |
 
 ## January 9, 2020
