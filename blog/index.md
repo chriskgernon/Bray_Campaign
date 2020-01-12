@@ -8,6 +8,10 @@ Diana has more and more interns joining the campaign, and Will and I are going t
 
 Before Will and I came to work for her, Diana had several different groups work for her. Additionally, her campaign manager is someone who does not have a lot of experience with computers or google drive. Thus, the google drive was disorganized and not very functionable.
 | Google Drive Changes |
+| ---------------------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+| Google Drive Changes |
 | Before |  After      |
 
 ## January 9, 2020
