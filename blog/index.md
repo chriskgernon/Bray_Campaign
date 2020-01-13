@@ -1,6 +1,7 @@
 ## January 11, 2020
 
-Even t
+Will and I took our day off to hit the slopes!
+![pic](UNADJUSTEDNONRAW_thumb_22bf.jpg)
 
 ## January 10, 2020
 
