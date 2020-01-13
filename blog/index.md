@@ -1,3 +1,7 @@
+## January 11, 2020
+
+Even t
+
 ## January 10, 2020
 
 The google drive and the organization of the google drive is crucial to the campaign's success. It stores all the information for contact leads, endorsement, social media information, etc. 
