@@ -7,7 +7,7 @@ Today, I added training events to Diana's facebook page. People who collect sign
 
 Here is the email: 
 
-
+[pic](mailerlite1.pdf)
 
 ## January 11, 2020
 
