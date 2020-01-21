@@ -1,3 +1,14 @@
+## January 13, 2020
+
+Fueling up for the big day with some delicious and nutritious breakfast bowls!
+![pic](C80D1F34-A384-4DF5-BFDA-0DE33D13FF55_1_105_c.jpeg)
+
+Today, I added training events to Diana's facebook page. People who collect signatures must be trained before they can collect signatures. There are specific rules petition circulators must follow in order for a their signatures to be considered valid. Additionally, I designed the email for Diana to send out to her mass email list looking for volunteers and donation. 
+
+Here is the email: 
+
+
+
 ## January 11, 2020
 
 Will and I took our day off to hit the slopes!
