@@ -23,7 +23,7 @@ Here is the video:
 
 In the evening, we hosted a petition signature training at the Douglas County Democrat office.
 
-Here is Will presenting! Look at captivating he is.
+Here is Will presenting! Go Will!
 ![pic](7D9F230F-468C-4139-997F-6C0081FCAD80_1_105_c.jpeg)
 
 ## January 16, 2020
