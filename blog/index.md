@@ -1,3 +1,35 @@
+## January 21, 2020
+
+Today is the day we can start collecting petitions!!!
+
+Unfortunatley, my computer decided it needed a break:
+![pic](77440FBF-2F74-448D-9B77-BDE16F338D9B_1_105_c.jpeg)
+
+But that didn't dampen spirits.
+
+No, he's not in the studio making :fire: beats! He's working on a petition signature training video!
+![pic](1941D2FB-0634-484E-9B2C-E0E08177AAA5_1_105_c.jpeg)
+
+Will and I made this training video to circulate to volunteers. This 8 minute video allows people to be trained right from their computer or phone. Making people attend an in person training event was a big barrier for people agreeing to help. If you include time it takes to travel to and from the training event, and all of the questions people ask at the event, it takes up to 2 hours to attend one of these events. The video will substantially decrease the barrier for people to help the campaign.
+
+Here is the video: 
+
+[![Watch the video](https://img.youtube.com/vi/W3pY1WYrXmk/maxresdefault.jpg)](https://youtu.be/W3pY1WYrXmk)
+
+
+## January 20, 2020
+
+![pic](B6A07ED5-7EE5-4E1B-AD8D-E25B3AC62E04_1_105_c.jpeg)
+
+In the evening, we hosted a petition signature training at the Douglas County Democrat office.
+
+Here is Will presenting! Look at captivating he is.
+![pic](7D9F230F-468C-4139-997F-6C0081FCAD80_1_105_c.jpeg)
+
+## January 14, 2020
+
+
+
 ## January 13, 2020
 
 Fueling up for the big day with some delicious and nutritious breakfast bowls!
@@ -5,9 +37,7 @@ Fueling up for the big day with some delicious and nutritious breakfast bowls!
 
 Today, I added training events to Diana's facebook page. People who collect signatures must be trained before they can collect signatures. There are specific rules petition circulators must follow in order for a their signatures to be considered valid. Additionally, I designed the email for Diana to send out to her mass email list looking for volunteers and donation. 
 
-Here is the email: 
-
-[pic](mailerlite1.pdf)
+Here is the [email](mailerlite1.pdf)
 
 ## January 11, 2020
 
