@@ -16,6 +16,10 @@ Here is the video:
 
 [![Watch the video](https://img.youtube.com/vi/W3pY1WYrXmk/maxresdefault.jpg)](https://youtu.be/W3pY1WYrXmk)
 
+Also, I reformatted Diana's volunteer page to include the video and maps locating where democrats are clustered in the state.
+
+Check out the changes [here](https://dianaforcolorado.com/petitioner-resources)!
+
 
 ## January 20, 2020
 
