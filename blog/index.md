@@ -22,8 +22,14 @@ Check out the changes [here](https://dianaforcolorado.com/petitioner-resources)!
 
 
 ## January 20, 2020
-
+Back at it!
 ![pic](B6A07ED5-7EE5-4E1B-AD8D-E25B3AC62E04_1_105_c.jpeg)
+
+Today, I created maps for all of the districts outside of Denver (those will be the hardest to get all the signatures we need). They are interactive maps that show the location of registered Democrats in the district by precinct. Each map has the locations of libraries and grocery stores people volunteering should go to in order to maximize exposure to registered democrats. 
+
+Here are they are:   [CD 2](https://dianaforcolorado.github.io/volunteer.github.io/CD_2/leaflet2/index.html#8/40.058/-105.191)  [CD 3](
+https://dianaforcolorado.github.io/volunteer.github.io/CD_3/leaflet2/index.html#8/37.909/-103.841)  [CD_4](https://dianaforcolorado.github.io/volunteer.github.io/CD_4/leaflet2/index.html#7/39.005/-103.605) [CD 5](https://dianaforcolorado.github.io/volunteer.github.io/CD_5/leaflet2/index.html#7/38.909/-105.209)
+
 
 In the evening, we hosted a petition signature training at the Douglas County Democrat office.
 
