@@ -1,3 +1,52 @@
+## January 28, 2020
+
+Today we got a list of voter registration data from the Secretary of State's Office. We heard that this information is what VAN offers but without the interface. We are going to try to clean the data and make it usable so that we can target Democrats in red districts. 
+
+Also, I completed the campaign's agreement with Shadow. We will role out the campaigns use of this peer to peer texting service tomorrow. It costs $.025 for each text message sent. We are hoping this will make it easier to organize our petition drives. Additionally, it means I will no longer have to spend all day contacting people like I did yesterday.
+
+## January 27, 2020
+
+The campaign desperately needs people to volunteer to collect signatures. I called or texted over 250 people today to ask them if they would want to help the campaign. The people I contacted were people who have previously expressed interest in some way that they were willing to help the campaign. 
+
+This was the content of the text message:
+
+```
+This is Christopher Gernon with Diana Bray's Senate Campaign. Our records indicate that you'd be interested in helping the campaign. Diana is the only candidate focusing on Climate and healthcare. All you need to do to help is watch a 7 minute training video. Are you interested? Any and all help is really appreciated! Diana is trying to make history by being the first candidate to petition on to the ballot using only volunteers so people like you can make a huge difference. Please let me know!
+```
+Of the roughly 250 people I contacted, I got about 20 of them to be on board.
+
+## January 25, 2020
+
+The campaign traveled to Colorado Springs to their city-wide Women's March. It ended up being quite a tough day.
+
+District 5 (the district Colorado Springs is in) is a very red district. Colorado Springs was one of the few cities over 400,000 people that voted for Trump in the 2016 presidential election. Thus, this event was crucial for getting the 1,500 signatures needed in that district. 
+
+This was the first time we had to compete for people's signatures. The other candidates were out in full force trying to get people to sign their petitions as well. The other candidates had way more people than we did, and they were much more aggressive. 
+
+We ended up collecting about 100 signatures, but it was the first time we were exposed to the brutal arena that is politcs. 
+
+Two of the candidates (one is from Colorado Springs) out politiced our campaign and were able to use the event as their own personal rally. One of the candidates is petitioning on to the ballot while the other candidate is caucusing. That meant that they were able to form an alliance and push their supporters to help the other person.
+
+## January 24, 2020
+
+Today was the first day that Will and I tried to collect signatures. 
+
+We went to Denver University's campus. After getting advice from students, we camped outside the library asking people to sign. After a while, I was approached by the campus security and was told that we were not allowed to canvas on the campus becuase it is private property. They were nice, however, and told us that we were allowed to stand on sidewalks. They pointed us to a heavily trafficked sidewalk.
+
+The most effective way to get people to agree to sign was to mention something about how Diana was trying to unseat Cory Gardner, the incumbent Republican Senator. That would almost instantly get people to agree to sign.
+
+The best way to start was:
+
+```
+Are you a registed Democrat in Colorado?
+
+Would you be interested in signing for Diana Bray to get her on the ballot for U.S. Senate? She is trying to unseat Cory Gardner.
+```
+A lot of students did not even take out their headphones to acknowledge we were there.
+
+Another common response was that people wanted to do their own research before agreeing to sign. 
+
+
 ## January 21, 2020
 
 Today is the day we can start collecting petitions!!!
